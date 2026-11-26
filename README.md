@@ -6,6 +6,8 @@ The purpose is to make observable behavior testable without publishing proprieta
 
 ## Start here — run ERPL
 
+ERPL (Energetic Research Production Line) is designed to transform research questions into defensible research deliverables through an AI-enabled process of hypothesis formation, evidence evaluation, critique and revision. Its intended users include researchers, universities and industrial R&D teams. The public demo shows the traceable lifecycle, not autonomous scientific discovery or paper production.
+
 [Run the executable ERPL demo](05-erpl/README.md). The default and custom-case execution paths were tested on macOS on 27 November 2026, including rejection of a modified output. This is a lifecycle demonstration, not a scientific discovery or superiority benchmark.
 
 ## Demonstration catalogue
