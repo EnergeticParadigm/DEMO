@@ -1,6 +1,10 @@
-# 05 — ERPL: research workflow demonstration
+# 05 — ERPL: research capability demonstration
 
-**Executable now.** This entry runs the existing [ERPL Public v1](https://github.com/EnergeticParadigm/ERPL) implementation, not a mock of a private engine.
+**Start with the actual research results:** [ERPL Research Capability Demonstration](RESEARCH_CAPABILITY_DEMO.md) · [Measured results](research_results.json).
+
+On 27 November 2026, the original private ERPL V1 engine freshly executed 20 experiment runs on the established Iris and Wine datasets. It rejected an initial hypothesis, generated and executed a revised experiment, supported the revised claim, discriminated competing hypotheses, and ran a separately packaged benchmark adapter. These were predefined research examples, not open-ended scientific discovery.
+
+The public evidence report is the primary demonstration. The downloadable workflow sandbox below is supplementary, not proof of research intelligence.
 
 ## What is ERPL, and why does it exist?
 
@@ -10,13 +14,13 @@ A conventional chatbot typically responds to individual requests. ERPL is design
 
 Potential users include researchers, universities and industrial R&D teams. Intended applications include developing research papers, evaluating scientific claims, reviewing manuscripts and managing research projects where evidence and revision history matter.
 
-The public demonstration below exposes the research lifecycle and its traceable artifacts. It does not perform autonomous literature discovery, scientific assessment or paper generation. Those capabilities require separately qualified research engines and are not delivered by this public package.
+The optional public workflow sandbox below exposes the research lifecycle and its traceable artifacts. It does not perform autonomous literature discovery, scientific assessment or paper generation. Those capabilities require separately qualified research engines and are not delivered by this public package.
 
 ## How does ERPL compare with Google AI Co-Scientist?
 
 [Read the source-based architectural comparison](ERPL_vs_AI_CoScientist.md), including Google's formal definition, published scientific evidence, ERPL's intended differentiation and current limitations.
 
-## Run
+## Optional public workflow sandbox
 
 Requires Python 3.10+, Git, and internet access for the initial checkout. No model, API key, or paid service is required.
 
@@ -35,7 +39,7 @@ python3 run.py --verify-only custom-run
 
 Inspect the output directory: question, claim, evidence, evaluation, review, revision, closure, state, provenance and SHA-256 manifest. The wrapper checks manifest coverage and lifecycle order in addition to running the upstream verification.
 
-## What this establishes
+## What the optional sandbox establishes
 
 The actual public engine materializes the supplied research case into eight stages and produces a verifiable closure record. The user may change the supplied inputs and inspect the generated record. It does **not** discover facts, generate new hypotheses from a question alone, assess scientific truth, compare intelligence against an LLM, or reproduce the private research engine.
 
