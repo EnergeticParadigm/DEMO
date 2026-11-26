@@ -2,6 +2,16 @@
 
 **Executable now.** This entry runs the existing [ERPL Public v1](https://github.com/EnergeticParadigm/ERPL) implementation, not a mock of a private engine.
 
+## What is ERPL, and why does it exist?
+
+**ERPL (Energetic Research Production Line) is designed to turn a research question into a defensible research result through an AI-enabled research production process.**
+
+A conventional chatbot typically responds to individual requests. ERPL is designed to organize sustained research work: formulate the problem, develop hypotheses, obtain and evaluate evidence, challenge conclusions, revise the work, and produce a documented research deliverable. The objective is to make research production more systematic, reproducible and accountable, rather than merely generating plausible text.
+
+Potential users include researchers, universities and industrial R&D teams. Intended applications include developing research papers, evaluating scientific claims, reviewing manuscripts and managing research projects where evidence and revision history matter.
+
+The public demonstration below exposes the research lifecycle and its traceable artifacts. It does not perform autonomous literature discovery, scientific assessment or paper generation. Those capabilities require separately qualified research engines and are not delivered by this public package.
+
 ## Run
 
 Requires Python 3.10+, Git, and internet access for the initial checkout. No model, API key, or paid service is required.
