@@ -19,6 +19,7 @@ ERPL (Energetic Research Production Line) is designed to transform research ques
 | [03 — Operational continuity](03-operational-continuity/README.md) | Recover work state and identify changed decisions, dependencies and next actions | Planned |
 | [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
 | [05 — ERPL research workflow](05-erpl/README.md) | Execute the actual ERPL Public v1 engine with a default or user-supplied case; inspect and verify the resulting artifacts | Executable now; public lifecycle scope only |
+| [06 — ERPL-P scientific publication qualification](06-erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
 
 The planned entries are evaluation specifications, not released demonstrations, verified capabilities or claims of superiority.
 
