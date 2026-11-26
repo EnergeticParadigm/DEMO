@@ -12,6 +12,10 @@ Potential users include researchers, universities and industrial R&D teams. Inte
 
 The public demonstration below exposes the research lifecycle and its traceable artifacts. It does not perform autonomous literature discovery, scientific assessment or paper generation. Those capabilities require separately qualified research engines and are not delivered by this public package.
 
+## How does ERPL compare with Google AI Co-Scientist?
+
+[Read the source-based architectural comparison](ERPL_vs_AI_CoScientist.md), including Google's formal definition, published scientific evidence, ERPL's intended differentiation and current limitations.
+
 ## Run
 
 Requires Python 3.10+, Git, and internet access for the initial checkout. No model, API key, or paid service is required.
