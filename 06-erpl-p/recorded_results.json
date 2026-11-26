@@ -1,0 +1,58 @@
+{
+  "source": "Actual ERPL-P v1.3 candidate rubric evaluator, executed on macOS, 2026-11-27; sanitized projection",
+  "scope": "Synthetic pre-scored input; no scientific manuscript judgment or independent qualification",
+  "cases": [
+    {
+      "case": "unassessed",
+      "criterion_count": 160,
+      "domain_count": 16,
+      "unassessed_count": 160,
+      "structural_error_count": 16,
+      "blocked_gate_count": 5,
+      "open_objection_count": 0,
+      "advisory_score": null,
+      "process_status": "STRUCTURAL_BLOCK",
+      "scientific_qualification": "NOT_GRANTED",
+      "release_authorization": "NOT_GRANTED"
+    },
+    {
+      "case": "high_score_open_objection",
+      "criterion_count": 160,
+      "domain_count": 16,
+      "unassessed_count": 0,
+      "structural_error_count": 0,
+      "blocked_gate_count": 5,
+      "open_objection_count": 1,
+      "advisory_score": 100,
+      "process_status": "READY_FOR_INDEPENDENT_SCIENTIFIC_REVIEW",
+      "scientific_qualification": "NOT_GRANTED",
+      "release_authorization": "NOT_GRANTED"
+    },
+    {
+      "case": "perfect_score_claimed_pass",
+      "criterion_count": 160,
+      "domain_count": 16,
+      "unassessed_count": 0,
+      "structural_error_count": 0,
+      "blocked_gate_count": 0,
+      "open_objection_count": 0,
+      "advisory_score": 100,
+      "process_status": "READY_FOR_INDEPENDENT_SCIENTIFIC_REVIEW",
+      "scientific_qualification": "NOT_GRANTED",
+      "release_authorization": "NOT_GRANTED"
+    },
+    {
+      "case": "missing_evidence_anchor",
+      "criterion_count": 160,
+      "domain_count": 16,
+      "unassessed_count": 0,
+      "structural_error_count": 1,
+      "blocked_gate_count": 5,
+      "open_objection_count": 0,
+      "advisory_score": null,
+      "process_status": "STRUCTURAL_BLOCK",
+      "scientific_qualification": "NOT_GRANTED",
+      "release_authorization": "NOT_GRANTED"
+    }
+  ]
+}
