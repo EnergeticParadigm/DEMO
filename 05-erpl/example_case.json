@@ -1,0 +1,13 @@
+{
+  "case_id": "custom_workflow_001",
+  "title": "Audit a research workflow",
+  "research_question": "Can a research workflow preserve the original question and supplied evidence through closure?",
+  "initial_claim": "The supplied claim and evidence can be retained in traceable stage artifacts.",
+  "public_evidence": [
+    {
+      "id": "E1",
+      "type": "synthetic_example",
+      "statement": "The evaluator supplies this observation as an input, not as an independently verified fact."
+    }
+  ]
+}
