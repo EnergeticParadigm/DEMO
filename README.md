@@ -4,6 +4,10 @@ A single public entry point for inspectable demonstrations of Energetic Paradigm
 
 The purpose is to make observable behavior testable without publishing proprietary implementation mechanisms, private runtime assets or confidential information. A demonstration establishes only the behavior and scope actually tested.
 
+## Start here — run ERPL
+
+[Run the executable ERPL demo](05-erpl/README.md). The default and custom-case execution paths were tested on macOS on 27 November 2026, including rejection of a modified output. This is a lifecycle demonstration, not a scientific discovery or superiority benchmark.
+
 ## Demonstration catalogue
 
 | Demonstration | Intended observable behavior | Status |
@@ -12,7 +16,7 @@ The purpose is to make observable behavior testable without publishing proprieta
 | [02 — Persistent intelligent memory](02-memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
 | [03 — Operational continuity](03-operational-continuity/README.md) | Recover work state and identify changed decisions, dependencies and next actions | Planned |
 | [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
-| [ERPL Public v1](https://github.com/EnergeticParadigm/ERPL) | Run and verify a capability-limited research lifecycle | Existing runnable public artifact, maintained in its canonical repository |
+| [05 — ERPL research workflow](05-erpl/README.md) | Execute the actual ERPL Public v1 engine with a default or user-supplied case; inspect and verify the resulting artifacts | Executable now; public lifecycle scope only |
 
 The planned entries are evaluation specifications, not released demonstrations, verified capabilities or claims of superiority.
 
