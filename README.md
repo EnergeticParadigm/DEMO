@@ -1,5 +1,9 @@
 # ERPL — Energetic Research Production Line
 
+[![Demo](https://img.shields.io/badge/Demo-Open%20ERPL-167d74?style=for-the-badge)](https://energeticparadigm.pages.dev/demo/erpl/)
+
+[Open ERPL Demo](https://energeticparadigm.pages.dev/demo/erpl/)
+
 **See how ERPL organizes a research question into an evidence-driven investigation.**
 
 ERPL is an AI-enabled research architecture developed under Energetic Paradigm. It organizes research from an initial question through research design, investigation, evidence evaluation, revision and the delivery of defensible findings.
