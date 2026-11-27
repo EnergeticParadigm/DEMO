@@ -1,10 +1,4 @@
-# Energetic Paradigm — DEMO
-
-Explore the capabilities of the Energetic Paradigm (EP).
-
-[ERPL](#erpl--energetic-research-production-line) · [ERPL-P](#erpl-p--scientific-paper-production)
-
-## ERPL — Energetic Research Production Line
+# ERPL — Energetic Research Production Line
 
 **Give us your research question. See how ERPL would investigate it.**
 
@@ -22,17 +16,3 @@ Your research question determines the research design and its corresponding Merm
 - **Research results:** documented findings, supporting evidence and unresolved questions.
 
 Share your research question directly with our team. The demonstration uses our human-directed AI research practice; no software installation or access to a private runtime is required.
-
-## ERPL-P — Scientific Paper Production
-
-ERPL-P is the publication-qualification layer of the Energetic Research Production Line. It supports the development of research materials into a scientific manuscript, including originality assessment, evidence development, claim refinement and scientific revision.
-
-The intended demonstration starts with research materials rather than a finished manuscript submitted for peer review.
-
-An existing evaluator exercise used four controlled synthetic assessments to demonstrate qualification controls. It does not establish complete manuscript production or constitute a review of a real paper.
-
-## Collaboration and investment
-
-We are currently seeking collaborators, strategic partners and investors. These demonstrations are not publicly accessible research services.
-
-[Official website](https://energeticparadigm.pages.dev/)
