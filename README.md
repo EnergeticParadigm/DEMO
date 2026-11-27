@@ -8,7 +8,9 @@ The purpose is to make observable behavior testable without publishing proprieta
 
 ERPL (Energetic Research Production Line) is designed to transform a researcher’s natural-language question into a defensible research result. The demonstration explains how the EP-enabled research process interprets the question, investigates existing knowledge, forms hypotheses, designs and executes research, evaluates evidence, and revises the work when necessary.
 
-[Explore the ERPL research process and Mermaid flowchart](05-erpl/README.md). The description reflects human-directed EP research practice; it is not an independently autonomous public endpoint. [Actual experimental evidence](05-erpl/RESEARCH_CAPABILITY_DEMO.md) separately documents implemented portions of the research loop, including hypothesis revision. The optional public workflow sandbox is supplementary.
+**We are currently seeking research collaborators and investors. ERPL is not currently offered as a publicly accessible research service.**
+
+[Explore the ERPL research process](05-erpl/README.md), [read the worked demonstration stage by stage](05-erpl/demonstration/README.md), or [view the Mermaid diagram](05-erpl/demonstration/RESEARCH_PROCESS.md). The description reflects human-directed EP research practice; it is not an independently autonomous public endpoint. [Actual experimental evidence](05-erpl/RESEARCH_CAPABILITY_DEMO.md) separately documents implemented portions of the research loop, including hypothesis revision. The optional public workflow sandbox is supplementary.
 
 ## Demonstration catalogue
 
@@ -18,7 +20,7 @@ ERPL (Energetic Research Production Line) is designed to transform a researcher�
 | [02 — Persistent intelligent memory](02-memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
 | [03 — Operational continuity](03-operational-continuity/README.md) | Recover work state and identify changed decisions, dependencies and next actions | Planned |
 | [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
-| [05 — ERPL research process](05-erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Research process demonstration; supporting private-engine experimental evidence |
+| [05 — ERPL research process](05-erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Research process demonstration with staged Markdown outputs; supporting private-engine experimental evidence |
 | [06 — ERPL-P scientific publication qualification](06-erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
 
 The planned entries are evaluation specifications, not released demonstrations, verified capabilities or claims of superiority.
