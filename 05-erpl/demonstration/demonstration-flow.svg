@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 216" width="1000" height="216" role="img" aria-labelledby="title desc">
+<title id="title">ERPL demonstration interaction</title>
+<desc id="desc">A real research question leads to a question-specific research design, then Markdown and Mermaid deliverables, and then investigation, findings and revisions.</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0 0 L9 4.5 L0 9 Z" fill="#64839A"/></marker></defs>
+<rect x="1" y="1" width="998" height="214" rx="16" fill="#F9FBFC" stroke="#DCE5EC"/>
+<g stroke="#64839A" stroke-width="2.5" marker-end="url(#arrow)"><path d="M236 108 H258"/><path d="M483 108 H505"/><path d="M751 108 H773"/></g>
+<g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+<rect x="18" y="34" width="216" height="148" rx="10" fill="#183A52"/>
+<g fill="#fff"><text x="126" y="76" font-size="16" font-weight="700">YOUR INPUT</text><text x="126" y="112" font-size="19">A real research</text><text x="126" y="137" font-size="19">question</text></g>
+<rect x="262" y="34" width="219" height="148" rx="10" fill="#EEF4F8" stroke="#64839A"/>
+<g fill="#183A52"><text x="371.5" y="76" font-size="19" font-weight="700">ERPL</text><text x="371.5" y="112" font-size="17">A question-specific</text><text x="371.5" y="137" font-size="17">research design</text></g>
+<rect x="509" y="34" width="240" height="148" rx="10" fill="#176B60"/>
+<g fill="#fff"><text x="629" y="66" font-size="15" font-weight="700">YOUR FIRST DELIVERABLES</text><text x="629" y="101" font-size="17">Research Design</text><text x="629" y="122" font-size="14">Markdown</text><text x="629" y="148" font-size="17">Research Map · Mermaid</text></g>
+<rect x="777" y="34" width="205" height="148" rx="10" fill="#EEF4F8" stroke="#64839A"/>
+<g fill="#183A52"><text x="879.5" y="76" font-size="16" font-weight="700">RESEARCH</text><text x="879.5" y="112" font-size="17">Investigation, findings</text><text x="879.5" y="137" font-size="17">and revisions</text></g>
+</g></svg>
