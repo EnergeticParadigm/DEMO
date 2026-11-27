@@ -6,7 +6,7 @@ Explore the capabilities of the Energetic Paradigm (EP) through dedicated demons
 
 | Capability | Focus |
 |---|---|
-| [ERPL — Energetic Research Production Line](erpl/demonstration/README.md) | Research design and execution |
+| [ERPL — Energetic Research Production Line](erpl/README.md) | Research design and execution |
 | [ERPL-P](erpl-p/README.md) | Scientific paper production and qualification |
 
 ## Collaboration and investment
