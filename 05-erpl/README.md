@@ -4,9 +4,9 @@
 
 **We are currently seeking research collaborators and investors. ERPL is not currently offered as a publicly accessible research service.**
 
-[Explore the step-by-step research demonstration](demonstration/README.md) · [View the Mermaid research process diagram](demonstration/RESEARCH_PROCESS.md)
+**[Bring your own research question — Demonstration](demonstration/README.md).** We invite prospective collaborators and investors to propose a genuine research question. Our response will include a tailored research design and a Mermaid diagram specific to that question, followed by documented research outputs as the investigation proceeds. No predetermined example is required.
 
-Each stage of the worked demonstration has its own Markdown research output. The example illustrates our human-directed AI research practice; it is not a standalone autonomous runtime execution.
+The [general research process diagram](demonstration/RESEARCH_PROCESS.md) is background material only. The previously prepared illustrative example is optional. This demonstration uses our human-directed AI research practice, not a public autonomous runtime endpoint.
 
 ## 1. What does the researcher provide?
 
