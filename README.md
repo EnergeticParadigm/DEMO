@@ -4,11 +4,11 @@ A single public entry point for inspectable demonstrations of Energetic Paradigm
 
 The purpose is to make observable behavior testable without publishing proprietary implementation mechanisms, private runtime assets or confidential information. A demonstration establishes only the behavior and scope actually tested.
 
-## Start here — ERPL research capability
+## Start here — how ERPL conducts research
 
-ERPL (Energetic Research Production Line) is designed to transform research questions into defensible research deliverables through an AI-enabled process of hypothesis formation, evidence evaluation, critique and revision. Its intended users include researchers, universities and industrial R&D teams. The research capability report shows fresh experimental execution and evidence-driven hypothesis revision in predefined research tasks; it does not claim open-ended discovery or paper production.
+ERPL (Energetic Research Production Line) is designed to transform a researcher’s natural-language question into a defensible research result. The demonstration explains how the EP-enabled research process interprets the question, investigates existing knowledge, forms hypotheses, designs and executes research, evaluates evidence, and revises the work when necessary.
 
-[Inspect the ERPL research capability demonstration](05-erpl/RESEARCH_CAPABILITY_DEMO.md). Twenty actual experiment runs on Iris and Wine, five hypothesis judgments, and a completed contradiction-to-revision research cycle. A separate [public workflow sandbox](05-erpl/README.md#optional-public-workflow-sandbox) remains downloadable; it does not reproduce the private-engine experiments.
+[Explore the ERPL research process and Mermaid flowchart](05-erpl/README.md). The description reflects human-directed EP research practice; it is not an independently autonomous public endpoint. [Actual experimental evidence](05-erpl/RESEARCH_CAPABILITY_DEMO.md) separately documents implemented portions of the research loop, including hypothesis revision. The optional public workflow sandbox is supplementary.
 
 ## Demonstration catalogue
 
@@ -18,7 +18,7 @@ ERPL (Energetic Research Production Line) is designed to transform research ques
 | [02 — Persistent intelligent memory](02-memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
 | [03 — Operational continuity](03-operational-continuity/README.md) | Recover work state and identify changed decisions, dependencies and next actions | Planned |
 | [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
-| [05 — ERPL research capability](05-erpl/README.md) | Actual experiments, evidence-driven hypothesis rejection and revision, and competing-hypothesis judgment | Fresh private-engine results; optional public workflow sandbox |
+| [05 — ERPL research process](05-erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Research process demonstration; supporting private-engine experimental evidence |
 | [06 — ERPL-P scientific publication qualification](06-erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
 
 The planned entries are evaluation specifications, not released demonstrations, verified capabilities or claims of superiority.
