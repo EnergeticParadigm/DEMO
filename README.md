@@ -16,9 +16,7 @@ ERPL (Energetic Research Production Line) is designed to transform a researcher�
 
 | Demonstration | Intended observable behavior | Status |
 |---|---|---|
-| [01 — MCP execution authorization](01-mcp/README.md) | An unauthorized operation is rejected before execution, with an authorized control case | Planned; public harness not yet released |
 | [02 — Persistent intelligent memory](02-memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
-| [03 — Operational continuity](03-operational-continuity/README.md) | Recover work state and identify changed decisions, dependencies and next actions | Planned |
 | [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
 | [05 — ERPL research process](05-erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Question-specific demonstration by arrangement; awaiting a participant's question; background evidence available |
 | [06 — ERPL-P scientific publication qualification](06-erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
