@@ -15,4 +15,8 @@ Your research question determines the research design and its corresponding Merm
 - **Research progress:** findings and revisions as the investigation proceeds.
 - **Research results:** documented findings, supporting evidence and unresolved questions.
 
-Share your research question directly with our team. The demonstration uses our human-directed AI research practice; no software installation or access to a private runtime is required.
+## Submit your research question
+
+[Send your research question via LinkedIn](https://www.linkedin.com/in/wesley-shu/) — open the profile and send a message with your research question. Include relevant constraints, data availability or the desired result if you already know them. You do not need to provide a research plan.
+
+Our team will take your question into the research process and return the question-specific Research Design and Research Map first. Subsequent research progress and results will be shared through the same conversation. The demonstration uses our human-directed AI research practice.
