@@ -8,20 +8,7 @@ ERPL (Energetic Research Production Line) is an AI-enabled research architecture
 
 Unlike a static demonstration with a predetermined question and answer, this demonstration begins with **your own research question**.
 
-```mermaid
-flowchart LR
-    Q["YOUR INPUT<br/>A real research question"]
-    D["ERPL<br/>A question-specific<br/>research design"]
-    M["YOUR FIRST DELIVERABLES<br/>Research Design · Markdown<br/>Research Map · Mermaid"]
-    R["RESEARCH<br/>Investigation, findings<br/>and revisions"]
-    Q --> D --> M --> R
-    classDef input fill:#183A52,stroke:#183A52,color:#FFFFFF,stroke-width:2px
-    classDef design fill:#EEF4F8,stroke:#64839A,color:#183A52
-    classDef output fill:#176B60,stroke:#176B60,color:#FFFFFF,stroke-width:2px
-    class Q input
-    class D,R design
-    class M output
-```
+![ERPL demonstration interaction: research question, tailored research design, first deliverables, and research execution](demonstration-flow.svg)
 
 *This diagram shows the demonstration interaction, not the research plan for your question. Your own research map is created after we receive your question.*
 
