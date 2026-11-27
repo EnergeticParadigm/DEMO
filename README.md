@@ -1,33 +1,36 @@
 # ERPL — Energetic Research Production Line
 
-[![Demo](https://img.shields.io/badge/Demo-Open%20ERPL-167d74?style=for-the-badge)](https://energeticparadigm.pages.dev/demo/erpl/)
+[![Open ERPL Demonstration](https://img.shields.io/badge/Open%20ERPL-Interactive%20Demo-167d74?style=for-the-badge)](https://energeticparadigm.org/demo/erpl/)
 
-[Open ERPL Demo](https://energeticparadigm.pages.dev/demo/erpl/)
+**Submit a research question and compare intelligence with and without ERPL.**
 
-**See how ERPL organizes a research question into an evidence-driven investigation.**
+## [Launch the interactive demonstration](https://energeticparadigm.org/demo/erpl/)
 
-ERPL is an AI-enabled research architecture developed under Energetic Paradigm. It organizes research from an initial question through research design, investigation, evidence evaluation, revision and the delivery of defensible findings.
+Choose Humanity's Last Exam (HLE), SCOPE or Idea2Plan. Enter the original question or load a public example, then select **Run comparison**.
 
-![ERPL demonstration: from a research question to a question-specific research design, research map and investigation](https://raw.githubusercontent.com/EnergeticParadigm/DEMO/8dc61bd1d34db0621274a65cb6a2b7a3007b4297/erpl/demonstration/demonstration-flow.svg)
+### How the demonstration works
 
-Your research question determines the research design and its corresponding Mermaid research map. The diagram above describes the demonstration interaction, not a predetermined research plan.
+1. **Input** — Enter the question.
+2. **Classification** — Identify knowledge prerequisites and distinguish Intelligence within Structures (IWS) from Intelligence of Structure Construction (ISC).
+3. **Experiment** — Run five comparison arms for IWS or four for ISC.
+4. **Results** — Inspect the live comparison table, individual responses and ERPL's research operations.
 
-**Research outputs in the intended workflow**
+| Comparison arm | IWS | ISC |
+| --- | :---: | :---: |
+| Liquid + Prompt | ✓ | ✓ |
+| Liquid + ERPL | ✓ | ✓ |
+| Ornith + Prompt | ✓ | ✓ |
+| Ornith + ERPL | ✓ | ✓ |
+| ERPL Only | ✓ | — |
 
-- **Research design:** the proposed methods, evidence requirements and rationale specific to your question.
-- **Research map:** a question-specific diagram showing dependencies and evidence-driven decisions.
-- **Research progress:** findings and revisions as the investigation proceeds.
-- **Research results:** documented findings, supporting evidence and unresolved questions.
+Questions that primarily require retrieval of established factual knowledge, or lack essential evidence, are identified before the comparison. No research experiment is launched until the relevant prerequisites are met.
 
-## Inspect a real demonstration
+## Experimental evidence
 
-The public reference run begins with this research question:
+[Read the two completed experimental case reports](https://energeticparadigm.org/demo/erpl/experiments/).
 
-> Can an executable staged research workflow preserve explicit state and provenance from initial framing through closure?
+[AI-readable question catalog](https://energeticparadigm.org/demo/erpl/cases.json) · [Live API specification](https://energeticparadigm.org/demo/erpl/api.json)
 
-Inspect its [research question](https://github.com/EnergeticParadigm/ERPL/blob/main/examples/reference_run/question.json), [research state](https://github.com/EnergeticParadigm/ERPL/blob/main/examples/reference_run/research_state.json), [evidence and review artifacts](https://github.com/EnergeticParadigm/ERPL/tree/main/examples/reference_run), and [closure decision](https://github.com/EnergeticParadigm/ERPL/blob/main/examples/reference_run/closure.json).
+The live demo uses local model inference and native ERPL research operations. Public examples do not constitute the full benchmark datasets. Automatic source retrieval and official answer-key scoring are not currently available. Native execution does not establish scientific correctness; unsupported inputs and blocked operations are reported.
 
-The public executable and reproduction instructions are available in [ERPL Public v1](https://github.com/EnergeticParadigm/ERPL). Human reviewers and AI agents can inspect the machine-readable artifacts directly without contacting a person.
-
-The public version demonstrates the staged lifecycle and its verification. A new research question can be used to create a public case scaffold, but this does not execute the private ERPL research engine. This page does not currently provide a public arbitrary-question research endpoint.
-
+[ERPL public executable reference](https://github.com/EnergeticParadigm/ERPL) · [Energetic Paradigm](https://energeticparadigm.org/)
