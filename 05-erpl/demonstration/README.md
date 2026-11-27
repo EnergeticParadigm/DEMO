@@ -1,41 +1,50 @@
-# ERPL — Bring Your Own Research Question
+# ERPL — Demonstration
 
-**Energetic Paradigm | Energetic Research Production Line**
+## Energetic Research Production Line
 
-**For prospective research collaborators and investors.** We are currently seeking collaboration and investment. ERPL is not currently offered as a publicly accessible research service.
+**Give us your research question. See how ERPL would investigate it.**
 
-This demonstration presents our human-directed, AI-executed research practice. A researcher provides a research question; EP-enabled AI investigates it, evaluates evidence, revises its conclusions when necessary, and delivers a research result. The research may be theoretical, analytical, computational, or empirical, depending on the assignment.
+ERPL (Energetic Research Production Line) is an AI-enabled research architecture developed under the Energetic Paradigm (EP). It organizes research from an initial question through research design, investigation, evidence evaluation, revision and the delivery of defensible findings.
 
-## Request a question-specific demonstration
+Unlike a static demonstration with a predetermined question and answer, this demonstration begins with **your own research question**.
 
-Bring a real research question of your choice to our discussion. No prescribed topic, expected answer, research plan, or software installation is required. Please share the question directly with our team rather than posting confidential research material in a public repository.
+```mermaid
+flowchart LR
+    Q["YOUR INPUT<br/>A real research question"]
+    D["ERPL<br/>A question-specific<br/>research design"]
+    M["YOUR FIRST DELIVERABLES<br/>Research Design · Markdown<br/>Research Map · Mermaid"]
+    R["RESEARCH<br/>Investigation, findings<br/>and revisions"]
+    Q --> D --> M --> R
+    classDef input fill:#183A52,stroke:#183A52,color:#FFFFFF,stroke-width:2px
+    classDef design fill:#EEF4F8,stroke:#64839A,color:#183A52
+    classDef output fill:#176B60,stroke:#176B60,color:#FFFFFF,stroke-width:2px
+    class Q input
+    class D,R design
+    class M output
+```
 
-Our first response will be a question-specific research design in English Markdown, explaining the research object, competing explanations, relevant evidence, proposed methods, feasibility constraints, and the decisions that determine the next research action. A companion Mermaid diagram will map the actual research tasks, dependencies and evidence-dependent branches for that question. It will not simply reproduce our general research lifecycle.
+*This diagram shows the demonstration interaction, not the research plan for your question. Your own research map is created after we receive your question.*
 
-We will then conduct the research in our human-directed EP environment as appropriate, document the actual findings and revisions, and deliver the results in Markdown. Planned work, completed research and unresolved questions will be distinguished explicitly. No public research endpoint is implied.
+## What will you receive?
 
-**Status: awaiting a question from a prospective collaborator or investor.** No question-specific design or research result is claimed for a question that has not yet been received.
-
-## Background example (optional)
-
-The example below is a source-based analytical illustration prepared on 27 November 2026. Its question was selected for illustration, not supplied verbatim by the founder. The Markdown files are edited public research outputs, not raw conversation transcripts or private reasoning logs. The demonstration does not imply that the entire process runs on the standalone ERPL V1 runtime.
-
-### Illustrative research assignment
-
-**Does peer-review success alone establish that an AI research system has independently discovered new scientific knowledge?**
-
-### Read the illustrative example
-
-| Stage | Research output |
+| Deliverable | What it reveals |
 |---|---|
-| 01 | [Research question and scope](01-research-question.md) |
-| 02 | [Literature and competing propositions](02-literature-and-hypotheses.md) |
-| 03 | [Research design and evidence](03-evidence-and-analysis.md) |
-| 04 | [Revision and research conclusion](04-revision-and-result.md) |
-| Diagram | [General research process — Mermaid (background)](RESEARCH_PROCESS.md) |
+| Research Design · Markdown | How ERPL approaches your specific question, what methods it selects, why, and what evidence is needed |
+| Research Map · Mermaid | The actual research tasks, their dependencies and how different findings change the subsequent investigation |
+| Research Progress · Markdown | The investigations performed, evidence obtained and changes to the research direction |
+| Research Results · Markdown | The findings, their contribution, supporting evidence and unresolved limitations |
 
-The example demonstrates the *process of research*, including a source-supported refinement of the original proposition. It is not a novel scientific discovery or a comparative benchmark of ERPL against other research systems.
+## Bring your own question
 
-For computational research evidence from the standalone private runtime, see [actual experimental results](../RESEARCH_CAPABILITY_DEMO.md). For our public research portfolio, see [Energetic Paradigm research](https://github.com/EnergeticParadigm/energetic-paradigm-research).
+Share a research question with our team in your existing conversation. You do not need to supply a research plan, a predetermined answer or install any software.
 
-**We welcome conversations with research institutions, scientific collaborators, strategic partners and investors interested in the development of AI-enabled research production.**
+**We are currently seeking research collaborators and investors.** Demonstrations are conducted through our team; ERPL is not currently offered as a publicly accessible research service.
+
+## Explore the evidence
+
+- [Public research portfolio](https://github.com/EnergeticParadigm/energetic-paradigm-research)
+- [Experimental research results from the private ERPL runtime](../RESEARCH_CAPABILITY_DEMO.md)
+- [ERPL architecture and general research process](../README.md)
+- [Illustrative research example](01-research-question.md) · [Literature and hypotheses](02-literature-and-hypotheses.md) · [Evidence and analysis](03-evidence-and-analysis.md) · [Research conclusion](04-revision-and-result.md)
+
+The general workflow and previously prepared example are background material. The question-specific demonstration uses our human-directed, AI-executed EP research practice; it is not a claim of a fully autonomous standalone endpoint. Research design and subsequent findings depend on the actual question, available evidence and resources. No question-specific design or findings are claimed before a question is received. Please share confidential research material privately.
