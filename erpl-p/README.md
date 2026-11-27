@@ -1,4 +1,4 @@
-# 06 — ERPL-P: Scientific publication qualification
+# ERPL-P: Scientific publication qualification
 
 ## What ERPL-P is for
 
@@ -23,7 +23,7 @@ The evaluator's review-readiness label denotes only structural completeness; it 
 
 ```sh
 git clone https://github.com/EnergeticParadigm/DEMO.git
-cd DEMO/06-erpl-p
+cd DEMO/erpl-p
 python3 run.py
 python3 run.py --case high_score_open_objection
 ```
@@ -45,4 +45,4 @@ The adapter invokes the actual evaluator and compares its sanitized outputs with
 - The private rubric, scientific rules, prompts and runtime are not distributed.
 - The v1.3 source candidate still requires independent qualification. Neither this demo nor its scores authorize publication or establish scientific superiority.
 
-[Recorded machine-readable results](recorded_results.json) · [Engineering status](https://github.com/EnergeticParadigm/energetic-paradigm-research/blob/main/engineering-status/2026-11-24/erpl-p.md) · [ERPL workflow](../05-erpl/README.md)
+[Recorded machine-readable results](recorded_results.json) · [Engineering status](https://github.com/EnergeticParadigm/energetic-paradigm-research/blob/main/engineering-status/2026-11-24/erpl-p.md) · [ERPL workflow](../erpl/README.md)

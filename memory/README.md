@@ -1,4 +1,4 @@
-# 02 — Persistent intelligent memory
+# Persistent intelligent memory
 
 Status: planned; no execution results published.
 

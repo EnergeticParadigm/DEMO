@@ -10,16 +10,16 @@ ERPL (Energetic Research Production Line) is designed to transform a researcher�
 
 **We are currently seeking research collaborators and investors. ERPL is not currently offered as a publicly accessible research service.**
 
-**[Bring your own research question](05-erpl/demonstration/README.md).** A prospective collaborator or investor proposes a question, and we produce a question-specific research design in Markdown and a tailored Mermaid research map, followed by documented findings as the investigation proceeds. No question-specific answer is prewritten. [General ERPL overview](05-erpl/README.md) and [general research process diagram](05-erpl/demonstration/RESEARCH_PROCESS.md) are background material. The description reflects human-directed EP research practice; it is not an independently autonomous public endpoint. [Actual experimental evidence](05-erpl/RESEARCH_CAPABILITY_DEMO.md) separately documents implemented portions of the research loop, including hypothesis revision. The optional public workflow sandbox is supplementary.
+**[Bring your own research question](erpl/demonstration/README.md).** A prospective collaborator or investor proposes a question, and we produce a question-specific research design in Markdown and a tailored Mermaid research map, followed by documented findings as the investigation proceeds. No question-specific answer is prewritten. [General ERPL overview](erpl/README.md) and [general research process diagram](erpl/demonstration/RESEARCH_PROCESS.md) are background material. The description reflects human-directed EP research practice; it is not an independently autonomous public endpoint. [Actual experimental evidence](erpl/RESEARCH_CAPABILITY_DEMO.md) separately documents implemented portions of the research loop, including hypothesis revision. The optional public workflow sandbox is supplementary.
 
 ## Demonstration catalogue
 
 | Demonstration | Intended observable behavior | Status |
 |---|---|---|
-| [02 — Persistent intelligent memory](02-memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
-| [04 — Legal reasoning](04-legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
-| [05 — ERPL research process](05-erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Question-specific demonstration by arrangement; awaiting a participant's question; background evidence available |
-| [06 — ERPL-P scientific publication qualification](06-erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
+| [Persistent intelligent memory](memory/README.md) | Recover information, dependencies and governing constraints across sessions | Planned |
+| [Legal reasoning](legal-reasoning/README.md) | Identify conclusions invalidated by changed premises and explain their dependencies | Planned |
+| [ERPL research process](erpl/README.md) | Explain how a research question is processed into a research result; show the evidence-driven revision loop | Question-specific demonstration by arrangement; awaiting a participant's question; background evidence available |
+| [ERPL-P scientific publication qualification](erpl-p/README.md) | Inspect how incomplete evidence and unresolved scientific objections prevent qualification despite high ratings | Recorded actual engine results; live rerun requires authorized private runtime |
 
 The planned entries are evaluation specifications, not released demonstrations, verified capabilities or claims of superiority.
 

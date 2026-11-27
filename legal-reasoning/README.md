@@ -1,4 +1,4 @@
-# 04 — Legal reasoning
+# Legal reasoning
 
 Status: planned; no execution results published.
 

@@ -1,4 +1,4 @@
-# 05 — ERPL: Demonstration
+# ERPL: Demonstration
 
 **ERPL (Energetic Research Production Line)** is an Energetic Paradigm research architecture for transforming a research question into a defensible research result through a sustained AI-enabled research process.
 
@@ -88,7 +88,7 @@ The existing public reference implementation is available for users who wish to 
 
 ```sh
 git clone https://github.com/EnergeticParadigm/DEMO.git
-cd DEMO/05-erpl
+cd DEMO/erpl
 python3 run.py
 ```
 
