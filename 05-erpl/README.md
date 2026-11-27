@@ -1,4 +1,4 @@
-# 05 — ERPL: Research Process Demonstration
+# 05 — ERPL: Demonstration
 
 **ERPL (Energetic Research Production Line)** is an Energetic Paradigm research architecture for transforming a research question into a defensible research result through a sustained AI-enabled research process.
 
