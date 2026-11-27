@@ -1,6 +1,12 @@
-# 05 — ERPL: From a Research Question to a Research Result
+# 05 — ERPL: Research Process Demonstration
 
 **ERPL (Energetic Research Production Line)** is an Energetic Paradigm research architecture for transforming a research question into a defensible research result through a sustained AI-enabled research process.
+
+**We are currently seeking research collaborators and investors. ERPL is not currently offered as a publicly accessible research service.**
+
+[Explore the step-by-step research demonstration](demonstration/README.md) · [View the Mermaid research process diagram](demonstration/RESEARCH_PROCESS.md)
+
+Each stage of the worked demonstration has its own Markdown research output. The example illustrates our human-directed AI research practice; it is not a standalone autonomous runtime execution.
 
 ## 1. What does the researcher provide?
 
